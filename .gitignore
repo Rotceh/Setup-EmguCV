@@ -1,0 +1,7 @@
+# vs user relative set
+
+*.suo
+bin/
+obj/
+Properties/
+
